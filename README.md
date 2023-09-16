@@ -61,5 +61,8 @@ curl -X POST \
 https://api.intrandom.com/auth/me
 ```
 
+### WebSocket Usage
+Harness the power of WebSockets to dynamically interact with the intrandom.com API. WebSocket support allows real-time communication and seamless integration into applications requiring live updates or continuous random number generation. For usage examples and implementation guidance, explore the <a href="./ws.test.ts">`./ws.test.ts`</a> file in this repository.
+
 # License
 intrandom.com is licensed under the MIT License.
