@@ -60,3 +60,6 @@ curl -X POST \
 -d '"auther": "{YOUR_EMAIL/YOUR_USERNAME}", "password": "{YOUR_PASSWORD}"}' \
 https://api.intrandom.com/auth/me
 ```
+
+# License
+intrandom.com is licensed under the MIT License.
