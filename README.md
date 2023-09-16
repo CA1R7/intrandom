@@ -57,7 +57,7 @@ If you lost your API Key you can just make a POST request to the API with the sp
 ```bash
 curl -X POST \
 -H "Content-Type: application/json" \
--d '"auther": "{YOUR_EMAIL/YOUR_USERNAME}", "password": "{YOUR_PASSWORD}"}' \
+-d '{"auther": "{YOUR_EMAIL/YOUR_USERNAME}", "password": "{YOUR_PASSWORD}"}' \
 https://api.intrandom.com/auth/me
 ```
 
